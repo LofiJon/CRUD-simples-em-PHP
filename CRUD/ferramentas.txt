@@ -1,0 +1,5 @@
+/*CREATE database XXXX
+SELECT *FROM XXXXX
+INSERT INTO XXXXX ( )
+UPDATE XXXX set -----------------;
+DELETE from TABELA WHERE id_login = 2;*/
